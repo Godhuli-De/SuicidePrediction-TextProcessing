@@ -40,3 +40,21 @@ Suicide is a major public health issue, and AI-powered detection can assist in p
 Machine learning allows rapid and large-scale analysis of online text, making it scalable for various applications in mental health.
 
 By implementing AI-driven suicide detection, this research contributes to the growing field of mental health analytics, ensuring that technology plays a vital role in saving lives. 🚀
+
+## Results:
+### Data Analysis and Word Cloud
+![image](https://github.com/user-attachments/assets/14c97282-642a-4456-9d85-9deaa3c67965)
+
+
+![image](https://github.com/user-attachments/assets/7c92b47f-17fd-4d80-adac-f28a7f4ddb5d)
+
+### AI Model Performance
+![image](https://github.com/user-attachments/assets/cad5240d-7fcb-4a7f-a340-da31f197b135)
+
+![image](https://github.com/user-attachments/assets/c885ec50-dc38-44d9-9738-07ffa3277bbf)
+
+![image](https://github.com/user-attachments/assets/0eaf9bd9-9c0a-4cb3-b4cd-6f6a04fe73ba)
+
+
+
+
